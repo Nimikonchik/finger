@@ -16,7 +16,16 @@
 {"name": "рыр",
 "command_from": "рыр",
 "command_to": "рр- 1 рыр"
-}
+},
+{
+"name": "ферма",
+"command_from": "фер",
+"command_to": "ферма"
+},
+{
+"name": "рыр много",
+"command_from": "дрыр",
+"command_to": "рр- 10 рыр"
 ],
   "service_prefixes": [
     "!слп",

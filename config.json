@@ -12,7 +12,12 @@
 "name":"д 1 минута",
 "command_from":"д1",
 "command_to":"дд 1 минута"
-}],
+},
+{"name": "рыр",
+"command_from": "рыр",
+"command_to": "рр- 1 рыр"
+}
+],
   "service_prefixes": [
     "!слп",
     ".слп"

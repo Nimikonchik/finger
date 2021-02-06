@@ -3,12 +3,16 @@
 "dbba62f8b33deb3b031ec927ac7aa49418934d1130b423df8338fb87a4d832d45a795799ed6d7d5f25308",
 "7bc6b1ba44d939efb548598c4b9cdea3c62a232008c0fbc78f5cd0846868c1ad61ea4fdc4457a271cd97d"],
   "secret_code": "Kot9Ra98777",
-  "delete_all_notify": false,
+  "delete_all_notify": true,
   "ru_captcha_key": "",
   "ignored_members": [],
   "ignored_global_members": [],
   "muted_members": [],
-  "aliases": [],
+  "aliases": [{
+"name":"д 1 минута",
+"command_from":"д1",
+"command_to":"дд 1 минута"
+}],
   "service_prefixes": [
     "!слп",
     ".слп"
